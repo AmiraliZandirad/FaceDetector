@@ -1,7 +1,7 @@
-# FaceDetector
+# FaceDetector 🧑🏻‍💻
 a simple FaceDetector from python
 
-## Installation
+## Installation 📩
 
 ```bash
 pip install pathlib
