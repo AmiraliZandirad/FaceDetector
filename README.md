@@ -6,7 +6,7 @@ a simple FaceDetector from python
 ```bash
 pip install pathlib
 ```
-خحز
+
 ```bash
 pip install opencv-python
 ```
