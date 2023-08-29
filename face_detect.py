@@ -4,7 +4,6 @@ import pathlib
 mycascade = pathlib.Path(cv2.__file__).parent.absolute() / "data/haarcascade_frontalface_default.xml"
 
 clf = cv2.CascadeClassifier(str(mycascade))
-
 cam = cv2.VideoCapture(0)
 
 while True:
@@ -18,8 +17,7 @@ while True:
         minSize = (30,30),
         flags = cv2.CASCADE_SCALE_IMAGE
     )
-
-    for (x,y,width,height) in face:
+ for (x,y,width,height) in face:
         cv2.rectangle(frame, (x,y), (x+width,y+height),(255.0,0),4)
 
     cv2.imshow("amirali",frame)
