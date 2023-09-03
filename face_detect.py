@@ -1,4 +1,4 @@
-# make by Amirali Zandi
+# Make by Amirali Zandi
 import cv2
 import pathlib
 
