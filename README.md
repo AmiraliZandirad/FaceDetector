@@ -1,4 +1,4 @@
-# FaceDetector 🧑🏻‍💻
+# FaceDetector 😃
 a simple FaceDetector from python.....
 
 ## Installation 📩
