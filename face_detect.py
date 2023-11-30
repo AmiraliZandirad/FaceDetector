@@ -1,4 +1,4 @@
-# Make by Amirali Zandi
+# ▁ ▂ ▄ ▅ ▆ ▇ █ α𝓶ι𝐑α𝕝ⓘ 𝔃αᑎ𝓓𝐈 █ ▇ ▆ ▅ ▄ ▂ ▁
 import cv2
 import pathlib
 
